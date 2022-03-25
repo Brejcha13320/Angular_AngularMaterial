@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+    background-color: #43cea2;
+    background: -webkit-linear-gradient(to right, #185a9d, #43cea2);
+    background: linear-gradient(to right, #185a9d, #43cea2); 
+}
+
+.login {
+    background: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    max-width: 330px;
+    text-align: center;
+    -webkit-box-shadow: 0 8px 10px 1px rgba(0,0,0,0.14), 0 3px 14px 2px rgba(0,0,0,0.12), 0 5px 5px -3px rgba(0,0,0,0.3);
+    box-shadow: 0 8px 10px 1px rgba(0,0,0,0.14), 0 3px 14px 2px rgba(0,0,0,0.12), 0 5px 5px -3px rgba(0,0,0,0.3);
+}
+
+.inputs {
+    width: 80%;
+}
+
+button {
+    width: 80%;
+    height: 50px;
+}
+
+.spinner {
+    margin: 0 auto;
+}

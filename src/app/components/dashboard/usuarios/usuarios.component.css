@@ -1,0 +1,22 @@
+table {
+    width: 100%;
+}
+
+th {
+    width: 20%;
+}
+
+.container {
+    margin: 50px 100px 0 100px;
+    padding-bottom: 50px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
